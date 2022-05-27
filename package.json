@@ -12,7 +12,12 @@
   "author": "Nuriddin Najimaddinov <nuraddin030@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2"
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.8.1",
+    "@mui/styled-engine-sc": "^5.8.0",
+    "axios": "^0.27.2",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
