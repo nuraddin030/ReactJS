@@ -1,0 +1,20 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "reactjs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Nuriddin Najimaddinov <nuraddin030@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
